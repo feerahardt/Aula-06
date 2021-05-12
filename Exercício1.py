@@ -4,4 +4,3 @@ def soma(a, b, c):
 
 
 soma(1, 5, 6)
-

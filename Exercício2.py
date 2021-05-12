@@ -6,4 +6,5 @@ def numero(number):
     else:
         return '0'
 
+
 print(numero(26))
